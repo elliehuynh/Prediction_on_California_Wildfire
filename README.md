@@ -1,5 +1,5 @@
 # Prediction on California Wildfire
-# California WildFire Exploratory Data Analysis and Prediction using ML/DL.
+# California WildFire Exploratory Data Analysis and Prediction using ML/DL technique.
 
 Questions
 1. What is the distribution of wildfires in California?
