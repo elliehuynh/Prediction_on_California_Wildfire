@@ -7,3 +7,7 @@ Questions
 3. Is there any trend in climate?
 4. What are the major factors affecting the frequency and severity of wildfires?
 5. Build models that predict annual/monthly (1) frequency wildfires, (2) severity of wildfires (by acres burned)?
+Data Sources:
+
+
+- Wildfire data: (https://www.kaggle.com/rtatman/188-million-us-wildfires/metadata)
