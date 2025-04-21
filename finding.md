@@ -12,18 +12,7 @@ There appears to be a slight correlation between wildfire peaks and El Niño yea
 Additionally, the notebook analyzes seasonal patterns by month and day of the year. The data clearly shows that wildfires are most frequent during the boreal summer, with activity beginning to rise in April and peaking between late June and early July (day 173–192). 
 In terms of severity, Class A fires occur most frequently, while more severe classes (D, E, F, G) are less common and show no significant trends. Notably, Class B fires have declined since 2007, and Class A fires dropped between 2008 and 2010 before returning to around 4,000 occurrences per year after 2011. The analysis of fire causes also reveals that "Miscellaneous" and "Equipment Use" are the leading causes of wildfires.
 
-Kettle_Q5-*.ipynb:
-This section focuses on predictive modeling of wildfire frequency and severity on a monthly basis. Three models were evaluated:
-
-
-Model	MAE	MSE	RMSE
-MLP	26.4925	4093.7791	63.9826
-RF	21.5793	2892.7273	53.7841
-RF-AVE	22.1633	3135.1573	55.9925
-MLP: Shallow neural network
-
-RF: Random Forest
-
-RF-AVE: Random Forest with spatial pattern averaging
+Q5-*.ipynb:
+This section focuses on predictive modeling of wildfire frequency and severity on a monthly basis. The MAE and RMSE datas are presented here.
 
 The predictive plots can be found in the respective notebooks. Note that annual predictions can be derived by summing the model outputs across months.
